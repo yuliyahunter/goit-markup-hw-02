@@ -102,8 +102,12 @@ color: var(--accent-color);
 
 /* HERO */
 
+.hero {
+    background-color: var(--hero-footer-bg-color);
+}
+
 .hero-title {
-    /* color: var(--primary-white-color); */
+    color: var(--primary-white-color);
     font-family: 'Roboto';
     font-weight: 900;
     font-size: 44px;
